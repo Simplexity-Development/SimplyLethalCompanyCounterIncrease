@@ -1,0 +1,7 @@
+{
+  "name": "Simply_Lethal_Company_Counter_Increase",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/Simplexity-Development/SimplyLethalCompanyCounterIncrease",
+  "description": "Changes the maximum items that can be on the counter from 12 to 30 (not yet configurable).",
+  "dependencies": []
+}

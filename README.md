@@ -2,7 +2,7 @@
 
 A Lethal Company mod that increases the number of items that can be put on the counter.
 
-> [Note]
+> [!Note]
 > 
 > Currently the mod is hard coded to 30 items.
 > 
